@@ -6,7 +6,8 @@ title: "Welcome to our second slide!"
 
 ---
 
-Your text
+ “Many of life’s failures are people who did not realize how close they were to success when they gave up.”– Thomas A. Edison
+
 
 Use the left arrow to go back!
 
